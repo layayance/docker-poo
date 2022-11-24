@@ -1,0 +1,14 @@
+{
+    "name": "layayance/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "composer init"
+        }
+    ],
+    "require": {}
+}
